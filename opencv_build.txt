@@ -1,4 +1,4 @@
 #TBB dependencies
 sudo apt-get install libtbb-dev
 
-cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D -D WITH_TBB=ON ..
+cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local -D WITH_TBB=ON ..
